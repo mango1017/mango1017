@@ -1,4 +1,4 @@
-# Hi，I'm Kevin Liu and nice to meet you 👋
+# Hi,I'm Kevin Liu and nice to meet you 👋
 
 > 🎓 **逢甲大學 資訊工程碩士** (專注於 AI 教育應用與軟體工程)  
 
