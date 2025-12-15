@@ -25,19 +25,19 @@
 
 ### 🏆 精選專案 (Featured Projects)
 
-#### 🥇 [CodeCast AI - 互動式 Podcast 生成系統](https://github.com/[您的 GitHub 帳號]/[專案名稱])
+#### 🥇 [CodeCast AI - 互動式 Podcast 生成系統]
 > **2025 TCSE 台灣軟體工程研討會 競賽金獎作品**
 * **核心概念：** 專為軟體工程學習設計的互動式 Podcast 生成平台。
 * **關鍵技術：** LLM (大型語言模型)、RAG (檢索增強生成)、Clean Code 原則。
 * **亮點：** 模擬「結對程式設計 (Pair Programming)」情境，由 AI 扮演主持人與搭檔進行 Code Review 對談，將枯燥的程式碼轉化為生動的音訊內容。
 
-#### 🎓 [DyAlgo - 體現式演算法學習系統](https://github.com/[您的 GitHub 帳號]/[專案名稱])
+#### 🎓 [DyAlgo - 體現式演算法學習系統]
 > **碩士論文研究**
 * **核心概念：** 結合教育理論 (動態評量) 與尖端科技的學習系統。
 * **關鍵技術：** LLM、NFC 感應技術、流程視覺化。
 * **亮點：** 透過實體 NFC 卡片操作引導學習者掌握 DFS/BFS 等演算法，並由 LLM 提供即時的個人化回饋。
 
-#### 🖐️ [多緒影音播放軟體 (手勢控制)](https://github.com/[您的 GitHub 帳號]/[專案名稱])
+#### 🖐️ [多緒影音播放軟體 (手勢控制)]
 > **大學畢業專題**
 * **核心概念：** 結合影像辨識技術的桌面影音播放器。
 * **關鍵技術：** Python, PyQt, MediaPipe, OpenCV, 深度學習模型。
@@ -51,16 +51,6 @@
     * 執行 Chip-to-Chip, PCIe, DDR 等高速訊號量測與測試計畫審查。
     * 運用 **Python** 開發自動化工具進行數據比對與分析。
     * 跨足軟硬體領域，協助除錯與訊號處理流程優化。
-
-
----
-
-### 📈 GitHub 統計 (Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[您的 GitHub 帳號]&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[您的 GitHub 帳號]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
