@@ -1,21 +1,14 @@
 # 嗨，我是 劉上銘 (Shang Ming Liu) 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-url/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:azir891017@gmail.com)
-
 > 🎓 **逢甲大學 資訊工程碩士** (專注於 AI 教育應用與軟體工程)  
-> 🏆 **2025 TCSE 台灣軟體工程研討會競賽 金獎得主** > 💻 熱衷於 **AI Agents**、**LLM 應用開發** 與 **軟硬體整合技術**
+
 
 ---
 
 ### 👨‍💻 關於我 (About Me)
 
-我是一位擁有「成長型思維」的軟體工程師，喜歡透過跨領域學習來解決複雜問題。我的背景橫跨 **軟體工程**、**AI 資料科學** 與 **硬體驗證**，這讓我有能力開發出結合軟硬體優勢的創新系統。
+一位菜雞工程師，喜歡透過跨領域學習來解決複雜問題。我的背景橫跨 **軟體工程**、**AI 資料科學** ，這讓我有能力開發出結合軟硬體優勢的創新系統。
 
-- 🔭 目前專注於開發：**DyAlgo 體現式學習系統** (結合 LLM 與 NFC 技術的碩士論文研究)。
-- 🌱 正在深入鑽研：**進階 RAG 技術 (Retrieval-Augmented Generation)** 與 **AI Agent 工作流**。
-- 👯 尋求合作機會：**生成式 AI 應用** 或 **全端開發專案**。
-- ⚡ 有趣經歷：曾擔任服務性社團社長，統籌過大型捐血與淨校活動！
 
 ---
 
@@ -59,8 +52,6 @@
     * 運用 **Python** 開發自動化工具進行數據比對與分析。
     * 跨足軟硬體領域，協助除錯與訊號處理流程優化。
 
-* **微學程助教** @ *教育大數據微學程*
-    * 協助教授資料科學方法與 LLM 於教育數據分析之應用。
 
 ---
 
